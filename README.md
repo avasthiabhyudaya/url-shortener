@@ -28,6 +28,6 @@ This is a url shortening service built using MongoDB, Express.js, Node.js and Bo
 - EJS Templating Engine
 
 
-#### Contributiong
+#### Contribution
 
 Feel free to fork this repo and raise an issue or submit a PR in case of any bugs.
